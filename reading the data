@@ -1,0 +1,3 @@
+reading the data 
+project=read.csv("Projects.csv")
+str(project)
